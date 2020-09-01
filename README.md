@@ -16,9 +16,9 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
 #### My Experience.
 
-- **LG Soft India Intern** 2019.07.01 ~ 2019.07.26
-- **Naver HackDay** 2020.04.29 ~ 2020.05.24
-- **Ebay Korea** 2020.06.22 ~ 
+- **LG Soft India Intern** `2019.07.01 ~ 2019.07.26`
+- **Naver HackDay** `2020.04.29 ~ 2020.05.24`
+- **Ebay Korea** `2020.06.22 ~ `
 
 
 
