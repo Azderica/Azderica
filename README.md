@@ -17,8 +17,9 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 #### My Experience.
 
 - **Kyungpook National University** `2015.03 ~ 2020.08`
-  - score : 4.15 / 4.5 (credit : 150)
-  - early graduation, Cum Laude
+  - Bachelor of Computer Science Engineer 
+  - Score : 4.15 / 4.5 (Credit : 150)
+  - Early graduation, Cum Laude
 
 
 - **LG Soft India Intern** `2019.07.01 ~ 2019.07.26`
