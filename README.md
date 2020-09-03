@@ -9,7 +9,7 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
 - **Front-End** : React.js, Vue.js, HTML/CSS/JS, ...
 - **Back-End** : .NET, SpringBoot, ...
-
+- **Others** : Swift, Android, etc
 
 
 
