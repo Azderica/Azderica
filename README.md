@@ -20,12 +20,14 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
   - Bachelor of Computer Science Engineer 
   - Score : 4.15 / 4.5 (Credit : 150)
   - Early graduation, Cum Laude
-
-
 - **LG Soft India Intern** `2019.07.01 ~ 2019.07.26`
+  - Project : Removing Fine dust
+  - IoT
 - **Naver HackDay** `2020.04.29 ~ 2020.05.24`
+  - Project : Real-time public transportation (Naver Maps)
+  - Web Front-End 
 - **Ebay Korea** `2020.06.22 ~ `
-
+  - Domain : ESM, Image Hosting, API...
 
 
 
