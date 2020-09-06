@@ -1,7 +1,6 @@
 Welcome to my git repository! 👋
 
-I'm working hard to be a Full-stack Web developer. 🧑‍💻
-
+I'm working hard to be a Full-stack Web developer.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -70,11 +69,21 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 </details>
 
 
-
-#### My Blog.
-
-- https://developer-azderica.tistory.com/
-- https://azderica.github.io/
+<a href="https://instagram.com/it_myeonghun">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/it_myeonghun/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://developer-azderica.tistory.com">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://developer-azderica.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://https://azderica.github.io">
+    <img 
+        src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 
 
