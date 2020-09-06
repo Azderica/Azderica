@@ -16,18 +16,38 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
 #### My Experience.
 
-- **Kyungpook National University** `2015.03 ~ 2020.08`
+<details markdown="1">
+<summary><strong>Kyungpook National University </strong> (2015.03 ~ 2020.08)  </summary>
+  
   - Bachelor of Computer Science Engineer 
   - Score : 4.15 / 4.5 (Credit : 150)
   - Early graduation, Cum Laude
-- **LG Soft India Intern** `2019.07.01 ~ 2019.07.26`
+  
+</details>
+
+<details markdown="1">
+<summary><strong>LG Soft India Intern </strong> (2019.07.01 ~ 2019.07.26)  </summary>
+  
   - Project : Removing Fine dust
   - IoT
-- **Naver HackDay** `2020.04.29 ~ 2020.05.24`
+  
+</details>
+
+<details markdown="1">
+<summary><strong>Naver HackDay </strong> (2020.04.29 ~ 2020.05.24)  </summary>
+  
   - Project : Real-time public transportation (Naver Maps)
   - Web Front-End 
-- **Ebay Korea** `2020.06.22 ~ `
+  
+</details>
+
+<details markdown="1">
+<summary><strong>Ebay Korea </strong> (2020.06.22 ~)  </summary>
+  
   - Domain : ESM, Image Hosting, API...
+
+  
+</details>
 
 
 
