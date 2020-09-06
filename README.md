@@ -7,6 +7,9 @@ I'm working hard to be a Full-stack Web developer.
 
 #### My Skills
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica&layout=compact)](https://github.com/anuraghazra/Azderica-readme-stats)
+
+
 <details markdown="1">
 <summary><strong>Code Level. </strong></summary>
   
