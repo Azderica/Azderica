@@ -1,13 +1,15 @@
-Welcome to my git repository! 👋
+Welcome to my git repository! 👋 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzderica%2Fhit-counter&count_bg=%2380BCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 I'm working hard to be a Full-stack Web developer.
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica&layout=compact)](https://github.com/Azderica/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details markdown="1">
