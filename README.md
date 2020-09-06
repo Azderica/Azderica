@@ -5,11 +5,15 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mh97888)](https://solved.ac/mh97888)
-
-
 
 #### My Skills
+
+<details markdown="1">
+<summary><strong>Code Level. </strong></summary>
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mh97888)](https://solved.ac/mh97888)
+  
+</details>
 
 <details markdown="1">
 <summary><strong>Front-End </strong></summary>
