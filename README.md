@@ -7,10 +7,22 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
 #### My Skills
 
-- **Front-End** : React.js, Vue.js, HTML/CSS/JS, ...
-- **Back-End** : .NET, SpringBoot, ...
-- **Others** : Swift, Android, etc
+<details markdown="1">
+<summary><strong>Front-End </strong></summary>
+  
+  - React.js
+  - Vue.js
+  - HTML/CSS/JS
+  
+</details>
 
+<details markdown="1">
+<summary><strong>Back-End </strong></summary>
+  
+  - .NET
+  - SpringBoot
+  
+</details>
 
 
 
@@ -48,7 +60,6 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
   
 </details>
-
 
 
 
