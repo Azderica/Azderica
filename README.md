@@ -11,8 +11,6 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 <details markdown="1">
 <summary><strong>Code Level. </strong></summary>
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mh97888)](https://solved.ac/mh97888)
-  
 </details>
 
 <details markdown="1">
