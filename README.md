@@ -3,6 +3,9 @@ Welcome to my git repository! 👋
 I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 #### My Skills
