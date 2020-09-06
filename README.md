@@ -5,6 +5,7 @@ I'm working hard to be a Full-stack Web developer. 🧑‍💻
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=mh97888)](https://solved.ac/mh97888)
 
 
 
