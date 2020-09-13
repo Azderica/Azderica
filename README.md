@@ -8,10 +8,7 @@ I'm working hard to be a Full-stack Web developer.
 
 </div>
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
-
+<span width="30%">
 
 #### My Skills
 
@@ -31,6 +28,20 @@ I'm working hard to be a Full-stack Web developer.
   - SpringBoot
   
 </details>
+
+</span>
+
+
+<span width="60%">
+	
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
+
+</span>	
+	
+	
+</div>
+
+
 
 
 
