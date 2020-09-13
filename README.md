@@ -1,7 +1,12 @@
-Welcome to my git repository! 👋 
+Welcome to my git repository!  👋 
+I'm working hard to be a Full-stack Web developer.
+
+<div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzderica%2Fhit-counter&count_bg=%2380BCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm working hard to be a Full-stack Web developer.
+</div>
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
@@ -70,6 +75,7 @@ I'm working hard to be a Full-stack Web developer.
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/it_myeonghun/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 <a href="https://developer-azderica.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://developer-azderica.tistory.com/"
