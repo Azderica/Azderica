@@ -50,7 +50,6 @@ I'm working hard to be a Full-stack Web developer.
 <summary><strong>LG Soft India Intern </strong> (2019.07.01 ~ 2019.07.26)  </summary>
   
   - Project : Removing Fine dust
-  - IoT
   
 </details>
 
@@ -58,7 +57,6 @@ I'm working hard to be a Full-stack Web developer.
 <summary><strong>Naver HackDay </strong> (2020.04.29 ~ 2020.05.24)  </summary>
   
   - Project : Real-time public transportation (Naver Maps)
-  - Web Front-End 
   
 </details>
 
