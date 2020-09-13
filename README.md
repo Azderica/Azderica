@@ -72,32 +72,32 @@ I'm working hard to be a Full-stack Web developer.
 <a href="https://instagram.com/it_myeonghun">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/it_myeonghun/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 	
 <a href="https://www.linkedin.com/in/myeonghun-park-7693a1184/">
     <img 
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
 <a href="mailto:mh97888@gmail.co">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
 
 <a href="https://developer-azderica.tistory.com">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://developer-azderica.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
 <a href="https://azderica.github.io">
     <img 
         src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
 </div>
