@@ -89,9 +89,9 @@ I'm working hard to be a Full-stack Web developer.
 </a>
 
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/)](https://www.linkedin.com/in/myeonghun-park-7693a1184/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/)](https://www.linkedin.com/in/myeonghun-park-7693a1184/)
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com)](mailto:mh97888@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com)](mailto:mh97888@gmail.com)
 	
 
 
