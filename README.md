@@ -8,9 +8,9 @@ I'm working hard to be a Full-stack Web developer.
 
 </div>
 
-<div display="inline-block">
+<div>
 
-<div width="30%">
+<span>
 
 #### My Skills
 
@@ -31,14 +31,14 @@ I'm working hard to be a Full-stack Web developer.
   
 </details>
 
-</div>
+</span>
 
 
-<div width="60%">
+<span>
 	
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>	
+</span>	
 	
 	
 </div>
