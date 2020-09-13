@@ -9,7 +9,9 @@ I'm working hard to be a Full-stack Web developer.
 </div>
 
 	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+<div style="display: inline">
 
 
 
@@ -31,6 +33,16 @@ I'm working hard to be a Full-stack Web developer.
   - SpringBoot
   
 </details>
+
+	
+</div>	
+<div style="display: inline">
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
+	
+</div>	
+
+</div>	
 
 
 
