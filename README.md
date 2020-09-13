@@ -11,7 +11,7 @@ I'm working hard to be a Full-stack Web developer.
 	
 
 <div>
-<div style="display: inline; width:30%;">
+<div style="display: inline; width:50px">
 
 
 
@@ -36,7 +36,7 @@ I'm working hard to be a Full-stack Web developer.
 
 	
 </div>	
-<div style="display: inline; width:68%;">
+<div style="display: inline;">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
 	
