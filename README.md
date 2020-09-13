@@ -75,7 +75,7 @@ I'm working hard to be a Full-stack Web developer.
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://developer-azderica.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://https://azderica.github.io">
+<a href="https://azderica.github.io">
     <img 
         src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
