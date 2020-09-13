@@ -16,6 +16,13 @@ I'm working hard to be a Full-stack Web developer.
 #### My Skills
 
 
+<a href="mailto:mh97888@gmail.co">
+    <img 
+        src="https://img.shields.io/badge/javascript-655ced?style=flat-square&logo=javascript&logoColor=white&link=mailto:mh97888@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+
 <details markdown="1">
 <summary><strong>Front-End </strong></summary>
   
