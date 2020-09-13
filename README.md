@@ -87,8 +87,11 @@ I'm working hard to be a Full-stack Web developer.
         src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/myeonghun-park-7693a1184/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:mh97888@gmail.com)
+
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/)](https://www.linkedin.com/in/myeonghun-park-7693a1184/)
+
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com)](mailto:mh97888@gmail.com)
 	
 
 
