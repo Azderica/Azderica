@@ -77,13 +77,13 @@ I'm working hard to be a Full-stack Web developer.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 	
-<a href="mailto:mh97888@gmail.com/">
+<a href="https://www.linkedin.com/in/myeonghun-park-7693a1184/">
     <img 
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://azderica.github.io">
+<a href="mailto:mh97888@gmail.co">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -95,6 +95,7 @@ I'm working hard to be a Full-stack Web developer.
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://developer-azderica.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 <a href="https://azderica.github.io">
     <img 
         src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/"
