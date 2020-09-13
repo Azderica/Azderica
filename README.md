@@ -76,6 +76,19 @@ I'm working hard to be a Full-stack Web developer.
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/it_myeonghun/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+	
+<a href="mailto:mh97888@gmail.com/">
+    <img 
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href="https://azderica.github.io">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 <a href="https://developer-azderica.tistory.com">
     <img 
@@ -88,11 +101,6 @@ I'm working hard to be a Full-stack Web developer.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/)](https://www.linkedin.com/in/myeonghun-park-7693a1184/)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com)](mailto:mh97888@gmail.com)
-	
 
 
 <!--
