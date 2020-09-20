@@ -46,7 +46,12 @@ I'm working hard to be a Full-stack Web developer.
 
 </div>	
 
+<details markdown="1">
+<summary> Most Used Language </summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</details>
 
 #### My Experience.
 
