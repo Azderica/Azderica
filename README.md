@@ -48,14 +48,8 @@ I'm working hard to be a Full-stack Web developer.
 
 <details markdown="1">
 <summary> Most Used Language </summary>
-
-<span>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</span>
-
-<span>
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
