@@ -90,7 +90,7 @@ I'm working hard to be a Full-stack Web developer.
   
 </details>
 
-[![Baekjoon Rank](http://mazassumnida.wtf/api/mini/generate_badge?boj=mh97888)](https://solved.ac/mh97888)
+
 
 <div align=center>
 
