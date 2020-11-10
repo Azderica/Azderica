@@ -1,5 +1,3 @@
-Welcome to my git repository! 👋 
-
 I'm working hard to be a Full-stack Web developer.
 
 <div align=center>
