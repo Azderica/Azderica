@@ -36,7 +36,7 @@ I'm trying to become a person who develops every day.
             style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/42582516/99177899-36ca6480-2751-11eb-9e89-7ab6a4f6a8ee.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://user-images.githubusercontent.com/42582516/99177899-36ca6480-2751-11eb-9e89-7ab6a4f6a8ee.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><br
             style="box-sizing: border-box;"><br style="box-sizing: border-box;"><b
             style="box-sizing: border-box; font-weight: 600;">
-</div>>
+</div>
 	
 </div>	
 
@@ -55,14 +55,11 @@ I'm trying to become a person who develops every day.
 
 ### My Experiences
 
-</div>
-
 <summary><strong>Ebay Korea </strong> (2020.06.22 ~)  </summary>
   
-  - Domain : ESM, Image Hosting, API...
-
+  - Domain : ESM, Image Hosting
   
-
+</div>
 
 
 <div align=center>
