@@ -14,6 +14,7 @@ I'm trying to become a person who develops every day.
 
 </div>
 
+---
 
 
 <div>
@@ -58,6 +59,8 @@ I'm trying to become a person who develops every day.
 <summary><strong>Ebay Korea </strong> (2020.06.22 ~)  </summary>
     
 </div>
+
+---
 
 
 <div align=center>
