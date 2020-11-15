@@ -56,9 +56,7 @@ I'm trying to become a person who develops every day.
 ### My Experiences
 
 <summary><strong>Ebay Korea </strong> (2020.06.22 ~)  </summary>
-  
-  - Domain : ESM, Image Hosting
-  
+    
 </div>
 
 
