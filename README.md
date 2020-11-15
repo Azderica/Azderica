@@ -26,8 +26,7 @@ I'm trying to become a person who develops every day.
 
 </div>
 
-<details align="center">
-	<summary style="box-sizing: border-box; display: list-item; cursor: pointer;">
+<details align="center" style="box-sizing: border-box; display: list-item; cursor: pointer;">
 		<br style="box-sizing: border-box;"><code
             style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
             style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
@@ -38,7 +37,6 @@ I'm trying to become a person who develops every day.
             style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><br
             style="box-sizing: border-box;"><br style="box-sizing: border-box;"><b
             style="box-sizing: border-box; font-weight: 600;">
-	</summary>
 </details>
 	
 </div>	
