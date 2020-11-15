@@ -1,4 +1,4 @@
-<div align=center>
+<div align="center">
 
 Hi, I'm myeonghun.
 
@@ -8,8 +8,7 @@ I'm trying to become a person who develops every day.
 
 </div>
 
-
-<div align=center>
+<div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzderica%2Fhit-counter&count_bg=%2380BCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -21,8 +20,11 @@ I'm trying to become a person who develops every day.
 	
 <div style="display: inline-block; width:30%;">
 
+<div align="center">
 
 ### My Skills
+
+</div>
 
 <details align="center">
 	<summary style="box-sizing: border-box; display: list-item; cursor: pointer;">
@@ -40,7 +42,8 @@ I'm trying to become a person who develops every day.
 </details>
 	
 </div>	
-<div style="display: inline-block; width:66%;">
+
+<div style="display: inline-block; width:66%;" align = "center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img src="https://github-readme-stats.vercel.app/api?username=Azderica" alt="Anurag&#39;s github stats">
@@ -50,7 +53,12 @@ I'm trying to become a person who develops every day.
 
 </div>	
 
+
+<div align="center">
+
 ### My Experiences
+
+</div>
 
 <summary><strong>Ebay Korea </strong> (2020.06.22 ~)  </summary>
   
