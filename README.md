@@ -1,4 +1,13 @@
+<div align=center>
+
+Hi, I'm myeonghun.
+
 I'm working hard to be a Full-stack Web developer.
+
+I'm trying to become a person who develops every day.
+
+</div>
+
 
 <div align=center>
   
@@ -13,25 +22,22 @@ I'm working hard to be a Full-stack Web developer.
 <div style="display: inline-block; width:30%;">
 
 
-#### My Skills
+### My Skills
 
-<details markdown="1">
-<summary><strong>Front-End </strong></summary>
-  
-  - React.js
-  - Vue.js
-  - HTML/CSS/JS
-  
+<details align="center">
+	<summary style="box-sizing: border-box; display: list-item; cursor: pointer;">
+		<br style="box-sizing: border-box;"><code
+            style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
+            style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
+            style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
+            style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
+            style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
+            style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><span>&nbsp;</span><code
+            style="box-sizing: border-box; background-color: var(--color-markdown-code-bg); color: rgb(175, 97, 97) !important; font-family: SFMono-Regular, Consolas, &quot;Liberation Mono&quot;, Menlo, monospace; font-size: 13.6px; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="box-sizing: border-box; background-color: initial; color: rgb(214, 216, 218) !important; text-decoration: none;"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="box-sizing: initial; border-style: none; background-color: var(--color-bg-primary); max-width: 100%;"></a></code><br
+            style="box-sizing: border-box;"><br style="box-sizing: border-box;"><b
+            style="box-sizing: border-box; font-weight: 600;">
+	</summary>
 </details>
-
-<details markdown="1">
-<summary><strong>Back-End </strong></summary>
-  
-  - .NET
-  - SpringBoot
-  
-</details>
-
 	
 </div>	
 <div style="display: inline-block; width:66%;">
@@ -44,49 +50,13 @@ I'm working hard to be a Full-stack Web developer.
 
 </div>	
 
-<details markdown="1">
-<summary> Most Used Language </summary>
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azderica&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### My Experiences
 
-</span>
-
-</details>
-
-#### My Experience.
-
-<details markdown="1">
-<summary><strong>Kyungpook National University </strong> (2015.03 ~ 2020.08)  </summary>
-  
-  - Bachelor of Computer Science Engineer 
-  - Score : 4.15 / 4.5 (Credit : 150)
-  - Early graduation, Cum Laude
-  
-</details>
-
-<details markdown="1">
-<summary><strong>LG Soft India Intern </strong> (2019.07.01 ~ 2019.07.26)  </summary>
-  
-  - Project : Removing Fine dust
-  
-</details>
-
-<details markdown="1">
-<summary><strong>Naver HackDay </strong> (2020.04.29 ~ 2020.05.24)  </summary>
-  
-  - Project : Real-time public transportation (Naver Maps)
-  
-</details>
-
-<details markdown="1">
 <summary><strong>Ebay Korea </strong> (2020.06.22 ~)  </summary>
   
   - Domain : ESM, Image Hosting, API...
 
   
-</details>
 
 
 
