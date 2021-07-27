@@ -9,6 +9,9 @@ I'm trying to become a person who develops every day.
 </div>
 
 <div align="center">
+	
+<img src="https://img.shields.io/badge/-gray?style=round-square&logo=javascript">
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzderica%2Fhit-counter&count_bg=%2380BCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
