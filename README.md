@@ -92,7 +92,7 @@ I'm trying to become a person who develops every day.
 
 <a href="https://azderica.github.io/til/">
     <img 
-        src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/til/"
+        src="http://img.shields.io/badge/-TIL-655ced?style=flat&logo=github&link=https://azderica.github.io/til/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
