@@ -29,7 +29,6 @@ I'm trying to become a person who develops every day.
 
 <div align="center" style="box-sizing: border-box; display: list-item; cursor: pointer;">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=javascript">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=react">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=vue.js">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=java">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=spring">
