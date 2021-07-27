@@ -84,15 +84,15 @@ I'm trying to become a person who develops every day.
 </a>
 
 
-<a href="https://developer-azderica.tistory.com">
+<a href="https://azderica.github.io">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://developer-azderica.tistory.com/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
-<a href="https://azderica.github.io">
+<a href="https://azderica.github.io/til/">
     <img 
-        src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/"
+        src="http://img.shields.io/badge/-Study%20Blog-655ced?style=flat&logo=github&link=https://azderica.github.io/til/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
