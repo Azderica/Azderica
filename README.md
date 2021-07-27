@@ -86,7 +86,7 @@ I'm trying to become a person who develops every day.
 
 <a href="https://azderica.github.io">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://developer-azderica.tistory.com/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=devpost&link=https://developer-azderica.tistory.com/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
