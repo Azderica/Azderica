@@ -6,7 +6,40 @@ I'm working hard to be a Full-stack Web developer.
 
 I'm trying to become a person who develops every day.
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Azderica?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<div align=center>
+
+<a href="https://instagram.com/it_myeonghun">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/it_myeonghun/"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+	
+<a href="https://www.linkedin.com/in/myeonghun-park-7693a1184/">
+    <img 
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+
+<a href="mailto:mh97888@gmail.co">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+
+
+<a href="https://azderica.github.io">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=devpost&link=https://developer-azderica.tistory.com/"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+
+<a href="https://azderica.github.io/til/">
+    <img 
+        src="http://img.shields.io/badge/-TIL-655ced?style=flat&logo=github&link=https://azderica.github.io/til/"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+
+</div>
 
 	
 ---
@@ -66,41 +99,6 @@ I'm trying to become a person who develops every day.
 
 ---
 
-
-<div align=center>
-
-<a href="https://instagram.com/it_myeonghun">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/it_myeonghun/"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-	
-<a href="https://www.linkedin.com/in/myeonghun-park-7693a1184/">
-    <img 
-        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeonghun-park-7693a1184/"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-
-<a href="mailto:mh97888@gmail.co">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mh97888@gmail.com"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-
-
-<a href="https://azderica.github.io">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=devpost&link=https://developer-azderica.tistory.com/"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-
-<a href="https://azderica.github.io/til/">
-    <img 
-        src="http://img.shields.io/badge/-TIL-655ced?style=flat&logo=github&link=https://azderica.github.io/til/"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-
-</div>
 
 
 <!--
