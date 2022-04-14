@@ -6,16 +6,8 @@ I'm working hard to be a Full-stack Web developer.
 
 I'm trying to become a person who develops every day.
 
-</div>
-
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzderica%2Fhit-counter&count_bg=%2380BCFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Azderica&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=Azderica&theme=juicyfresh&no-bg=true" />
 	
-</div>
-
 ---
 
 
@@ -48,11 +40,18 @@ I'm trying to become a person who develops every day.
 <a href="https://github.com/anuraghazra/github-readme-stats">
 	<img src="https://github-readme-stats.vercel.app/api?username=Azderica" alt="Anurag&#39;s github stats">
 </a>
+	
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Azderica&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)	
+
+[![Myeonghun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Azderica&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 </div>	
 
 </div>	
 
+---
 
 <div align="center">
 
