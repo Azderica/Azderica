@@ -2,9 +2,7 @@
 
 Hi, I'm myeonghun.
 
-I'm working hard to be a Full-stack Web developer.
-
-I'm trying to become a person who develops every day.
+I'm working hard to be a pro web developer and a person who grow everyday.
 
 <div align=center>
 
