@@ -31,9 +31,9 @@ I'm working hard to be a pro web developer and a person who grow everyday.
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
-<a href="https://azderica.github.io/til/">
+<a href="https://azderica.github.io/til/docs/intro">
     <img 
-        src="http://img.shields.io/badge/-TIL-655ced?style=flat&logo=github&link=https://azderica.github.io/til/"
+        src="http://img.shields.io/badge/-TIL-655ced?style=flat&logo=github&link=https://azderica.github.io/til/docs/intro"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
