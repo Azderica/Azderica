@@ -74,9 +74,6 @@ I'm working hard to be a pro web developer and a person who grow everyday.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Azderica&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)	
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=Azderica" width="400"/>
-</a>
 
 
 </div>	
