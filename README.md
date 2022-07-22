@@ -37,6 +37,13 @@ I'm working hard to be a pro web developer and a person who grow everyday.
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
+<a href="https://medium.com/@azderica">
+    <img 
+        src="http://img.shields.io/badge/-Think-000000?style=flat&logo=medium&link=https://medium.com/@azderica"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
+
+
 </div>
 
 	
