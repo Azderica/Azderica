@@ -62,6 +62,7 @@ I'm working hard to be a pro web developer and a person who grow everyday.
 
 <div align="center" style="box-sizing: border-box; display: list-item; cursor: pointer;">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=javascript">
+<img src="https://img.shields.io/badge/-gray?style=round-square&logo=typescirpt">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=vue.js">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=java">
 <img src="https://img.shields.io/badge/-gray?style=round-square&logo=spring">
