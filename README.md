@@ -61,16 +61,27 @@ I'm working hard to be a pro web developer and a person who grow everyday.
 </div>
 
 <div align="center" style="box-sizing: border-box; display: list-item; cursor: pointer;">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=javascript">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=typescirpt">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=vue.js">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=java">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=spring">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=.net">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=oracle">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=Microsoft%20SQL%20Server">
-<img src="https://img.shields.io/badge/-gray?style=round-square&logo=docker">
-	
+	<div>
+		<img src="https://img.shields.io/badge/-blue?style=flat&logo=javascript&label=javascript">
+		<img src="https://img.shields.io/badge/-blue?style=flat&logo=typescript&label=typescript">
+		<img src="https://img.shields.io/badge/-blue?style=flat&logo=vue.js&label=vue.js">
+		<img src="https://img.shields.io/badge/-blue?style=flat&logo=react&label=react">
+	</div>
+	<div>
+		<img src="https://img.shields.io/badge/-orange?style=flat&logo=java&label=java">
+		<img src="https://img.shields.io/badge/-orange?style=flat&logo=spring&label=spring">
+		<img src="https://img.shields.io/badge/-orange?style=flat&logo=.net&label=.net">	
+	</div>
+	<div>
+		<img src="https://img.shields.io/badge/-yellow?style=flat&logo=couchbase&label=couchbase">
+		<img src="https://img.shields.io/badge/-yellow?style=flat&logo=mongodb&label=mongodb">
+		<img src="https://img.shields.io/badge/-yellow?style=flat&logo=redis&label=redis">
+		<img src="https://img.shields.io/badge/-yellow?style=flat&logo=Microsoft%20SQL%20Server&label=Microsoft%20SQL%20Server">
+	</div>
+	<div>
+		<img src="https://img.shields.io/badge/-green?style=flat&logo=docker&label=docker">
+		<img src="https://img.shields.io/badge/-green?style=flat&logo=kubernetes&label=kubernetes">
+	</div>
 </div>
 	
 </div>	
