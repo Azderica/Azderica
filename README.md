@@ -102,7 +102,9 @@ I'm working hard to be a pro web developer and a person who grow everyday.
 
 ### My Experiences
 
-<summary><strong>Ebay Korea </strong> (2020.06.22 ~)  </summary>
+<summary><strong>Ebay Korea </strong> (2020.06.22 ~ 2025.05.20)  </summary>
+
+<summary><strong>Ebay Korea </strong> (2025.06.02 ~)  </summary>
     
 </div>
 
