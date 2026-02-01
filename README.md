@@ -24,10 +24,15 @@ I'm working hard to be a pro web developer and a person who grow everyday.
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
+<a href="https://hun-log.vercel.app">
+    <img 
+        src="http://img.shields.io/badge/-New%20Blog-655ced?style=flat&logo=devpost&link=https://hun-log.vercel.app/"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
 
 <a href="https://azderica.github.io">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=devpost&link=https://developer-azderica.tistory.com/"
+        src="http://img.shields.io/badge/-Old%20Blog-655ced?style=flat&logo=devpost&link=https://developer-azderica.tistory.com/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
